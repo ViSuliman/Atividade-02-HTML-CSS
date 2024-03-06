@@ -1,0 +1,23 @@
+.card {
+    background-color: #a8dfa1;
+    height: 800px;
+    width: 800px;
+}
+
+.boox {
+    background-color: #ec9498; 
+    height: 150px;
+    width: 150px;
+}
+
+.box {
+    background-color: rgb(123, 79, 206);
+    width: 70vw;
+    height: 70vh;
+}
+
+.card2 {
+    background-color: rgb(125, 152, 212); 
+    width: 80vw; 
+    height: 40%;
+}
